@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="frameworkPrac1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.682">
+    <properties></properties>
+
+
+
+            <testcase
+                name="guestLogin"
+                time="0.682"
+                classname="com.thetesting.Tests.firstTC">
+            </testcase>
+</testsuite>
